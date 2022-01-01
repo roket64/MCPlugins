@@ -1,0 +1,19 @@
+name: RoketPlugin
+version: 1.0.0
+author: roket
+main: my.plugins.testplugins.roketplugin.RoketPlugin
+api-version: 1.18
+commands:
+  adder1:
+    description: run adder01
+    aliases: [ad1, add1]
+  adder2:
+    description: run adder02
+    aliases: [ad2, add2]
+  custominventory:
+    description: run customInventory
+    aliases: [custominv, csv]
+  sethome:
+    description: run sethome
+  tph:
+    description: run TpHome
